@@ -20,6 +20,14 @@ conda activate msclip
 ```
 
 ## Usage
+
+
+### Model Weights
+
+The pretrained weights are available on Hugging Face:
+
+**[SeriYann/MicroscopyCLIP](https://huggingface.co/SeriYann/MicroscopyCLIP)**
+
  
 ### Load the model
  
