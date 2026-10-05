@@ -118,4 +118,16 @@ We would like to thank the authors of the original CLIP implementation, which th
 Their open-source contributions provided the foundation for this work.
 
 
+## Citation
+If you find this work useful, please cite it as:
+```
+@inproceedings{yang2026microscopyclip,
+  title={MicroscopyCLIP: A Domain-Specific Vision-Language Model for Optical Microscopy},
+  author={Yang, Zhuoqin and Zhang, Jiansong and Wang, Xiaojun and Luo, Xiaoling and Huang, Xiaofei and Wang, Jie and Lim, Kian Ming and Lu, Zheng and Shen, Linlin},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={427--437},
+  year={2026},
+  organization={Springer}
+}
+```
 
